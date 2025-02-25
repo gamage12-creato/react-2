@@ -55,3 +55,27 @@ body {
 .result-item p {
   margin: 8px 0;
 }
+/* Style.css */
+
+.home-container, .choix-deno-container {
+  padding: 20px;
+  background-color: #071075;
+  border-radius: 8px;
+  margin-top: 20px;
+  max-width: 400px;
+  margin: auto;
+}
+
+nav {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+input[type="checkbox"] {
+  margin-right: 10px;
+}
